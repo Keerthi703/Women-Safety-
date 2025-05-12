@@ -1,2 +1,16 @@
-# Women-Safety-
-Women Safety App is a mobile/web application designed to provide rapid emergency support, real-time tracking, and communication tools to help women feel safer and stay protected in threatening situations. The app enables users to alert trusted contacts, share live location, and access emergency services quickly and discreetly.
+# she_shield_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
