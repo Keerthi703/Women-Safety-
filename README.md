@@ -3,6 +3,38 @@
 A new Flutter project.
 
 ## Getting Started
+🚨 SOS Button: Instantly sends emergency alerts to predefined contacts with real-time location.
+
+📍 Live Location Tracking: Enables trusted contacts to track the user’s movement in real-time.
+
+🧭 Safe Route Suggestions: Shows safer travel routes using local crime data (optional).
+
+🧑‍🤝‍🧑 Trusted Contacts Management: Add, remove, or update emergency contacts easily.
+
+
+Layer	Technologies
+Frontend :	Flutter 
+Backend: Node.js / Django
+Database :	MongoDB 
+Location :	Google Maps API 
+Messaging :	Twilio 
+
+🎯 Use Cases
+Women walking alone at night
+
+Commuting in unfamiliar areas
+
+Emergency medical situations
+
+Need for quick access to help or security services
+
+
+
+
+
+
+
+
 
 This project is a starting point for a Flutter application.
 
